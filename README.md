@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiorF02
 - 👀 I’m interested in learning about and programming artificial intelligence 
-- 🌱 I’m currently learning CS50's Introduction to Artificial Intelligence with Python on edX
+- 🌱 I’m currently learning CS50's Introduction to Artificial Intelligence with Python on edX and a bit of game development on the side
 - 📫 How to reach me on liorf1102@gmail.com
 
 <!---
